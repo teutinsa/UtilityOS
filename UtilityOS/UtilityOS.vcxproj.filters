@@ -21,6 +21,7 @@
     <None Include="src\boot\boot.asm">
       <Filter>Quelldateien</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\kernel\Types.h">

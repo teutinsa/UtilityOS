@@ -108,6 +108,7 @@
     <Text Include="makefile" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="src\boot\boot.asm" />
   </ItemGroup>
   <ItemGroup>
